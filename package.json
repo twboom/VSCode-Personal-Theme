@@ -2,7 +2,19 @@
     "name": "twboom-dark",
     "displayName": "TWBoom Dark",
     "description": "TWBoom's personal theme!",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "twboom",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/twboom/VSCode-Personal-Theme"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "twboom",
+        "thijs",
+        "boom"
+    ],
     "engines": {
         "vscode": "^1.54.0"
     },
