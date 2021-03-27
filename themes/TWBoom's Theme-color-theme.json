@@ -2,10 +2,11 @@
 	"name": "TWBoom's Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#191f22",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+		"statusBar.background": "#3d8b2a"
 	},
 	"tokenColors": [
 		{
@@ -109,7 +110,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#f88163"
 			}
 		},
 		{
@@ -166,7 +167,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#3dff88"
 			}
 		},
 		{
